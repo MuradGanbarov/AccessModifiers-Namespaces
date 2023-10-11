@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\bin\Debug\net6.0\Access modifiers, Namespace.exe
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\bin\Debug\net6.0\Access modifiers, Namespace.deps.json
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\bin\Debug\net6.0\Access modifiers, Namespace.runtimeconfig.json
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\bin\Debug\net6.0\Access modifiers, Namespace.dll
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\bin\Debug\net6.0\Access modifiers, Namespace.pdb
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\Access modifiers, Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\Access modifiers, Namespace.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\Access modifiers, Namespace.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\Access modifiers, Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\Access modifiers, Namespace.dll
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\refint\Access modifiers, Namespace.dll
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\Access modifiers, Namespace.pdb
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\Access modifiers, Namespace.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Access modifiers, Namespace\Access modifiers, Namespace\obj\Debug\net6.0\ref\Access modifiers, Namespace.dll
